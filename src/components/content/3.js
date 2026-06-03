@@ -2,8 +2,8 @@ import React from 'react'
 
 const Three = () => {
   return (
-    <div>
-      3
+   <div>
+      <h1>Projects</h1>
     </div>
   )
 }

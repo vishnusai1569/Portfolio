@@ -2,8 +2,8 @@ import React from 'react'
 
 const Two = () => {
   return (
-    <div>
-      2
+   <div>
+      <h1>Skills</h1>
     </div>
   )
 }

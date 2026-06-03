@@ -3,7 +3,7 @@ import React from 'react'
 const Six = () => {
   return (
     <div>
-      Home component
+      <h1>Experience</h1>
     </div>
   )
 }

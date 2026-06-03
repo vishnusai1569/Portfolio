@@ -3,7 +3,7 @@ import React from 'react'
 const Five = () => {
   return (
     <div>
-      Home component
+      <h1>Education</h1>
     </div>
   )
 }

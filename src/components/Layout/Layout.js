@@ -16,13 +16,13 @@ const Layout = () => {
         {/* Sidebar */}
         <nav className="sidenav">
           <ul>
-            <li><Link to="/1">Page 1</Link></li>
-            <li><Link to="/2">Page 2</Link></li>
-            <li><Link to="/3">Page 3</Link></li>
-            <li><Link to="/4">Page 4</Link></li>
-            <li><Link to="/5">Page 5</Link></li>
-            <li><Link to="/6">Page 6</Link></li>
-            <li><Link to="/7">Page 7</Link></li>
+            <li><Link to="/about">About</Link></li>
+            <li><Link to="/Skils">Skils</Link></li>
+            <li><Link to="/Projects">Projects</Link></li>
+            <li><Link to="/Certificates">Certificates</Link></li>
+            <li><Link to="/Education">Education</Link></li>
+            <li><Link to="/Experience">Experience</Link></li>
+
           </ul>
         </nav>
 

@@ -10,20 +10,19 @@ import Three from './components/content/3';
 import Four from './components/content/4';
 import Five from './components/content/5';
 import Six from './components/content/6';
-import Seven from './components/content/7';
+
 
 function App() {
   return (
     <Routes>
 
       <Route path="/" element={<Layout />}>
-        <Route path="1" element={<One />} />
-        <Route path="2" element={<Two />} />
-        <Route path="3" element={<Three />} />
-        <Route path="4" element={<Four />} />
-        <Route path="5" element={<Five />} />
-        <Route path="6" element={<Six />} />
-        <Route path="7" element={<Seven />} />
+        <Route path="about" element={<One />} />
+        <Route path="Skils" element={<Two />} />
+        <Route path="Projects" element={<Three />} />
+        <Route path="Certificates" element={<Four />} />
+        <Route path="Education" element={<Five />} />
+        <Route path="Experience" element={<Six />} />
       </Route>
 
     </Routes>

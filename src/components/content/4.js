@@ -2,8 +2,9 @@ import React from 'react'
 
 const Four = () => {
   return (
-<h1>4
-</h1>
+<div>
+      <h1>Certificates</h1>
+    </div>
   )
 }
 
